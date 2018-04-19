@@ -1,3 +1,4 @@
 def roll
-  rand(1..6)
+  arr[1..6]
+  
 end
