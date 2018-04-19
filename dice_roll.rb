@@ -1,4 +1,4 @@
 def roll
   arr = Array (1..6)
-  arr[rand(array.length)]
+  arr[rand(arr.length)]
 end
